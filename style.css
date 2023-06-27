@@ -1,9 +1,9 @@
 .container {
-    display: flex
+    width: 960px;
 }
 
 .grid-row {
-    display: row
+    display: flex
 }
 
 .grid-box {
