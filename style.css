@@ -1,0 +1,13 @@
+.container {
+    display: flex
+}
+
+.grid-row {
+    display: row
+}
+
+.grid-box {
+    border: 1px solid black;
+    background-color: #f8f8ff;
+}
+
