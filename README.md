@@ -1,5 +1,7 @@
 # Etch-a-Sketch
 
+![Etch-a-Sketch](Etch-a-Sketch.gif)
+
 ## Description
 
 This is an Etch-A-Sketch project created as part of The Odin Project's curriculum. The Etch-A-Sketch is a classic drawing toy implemented using HTML, CSS, and JavaScript. The project aims to reinforce your understanding of user interactions, event handling, and DOM manipulation.
