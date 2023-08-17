@@ -1,12 +1,19 @@
 # Etch-a-Sketch
+<<<<<<< HEAD
 
 ![Etch-A-Sketch Screenshot](screenshot.png)
 
+=======
+>>>>>>> dcbdc5a (edit readme)
 ## Description
 
 This is an Etch-A-Sketch project created as part of The Odin Project's curriculum. The Etch-A-Sketch is a classic drawing toy implemented using HTML, CSS, and JavaScript. The project aims to reinforce your understanding of user interactions, event handling, and DOM manipulation.
 
+<<<<<<< HEAD
 ![Etch-A-Sketch Preview](preview.gif)
+=======
+![Etch-A-Sketch Preview](./Etch-a-Sketch.gif)
+>>>>>>> dcbdc5a (edit readme)
 
 ## Features
 
